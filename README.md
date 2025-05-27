@@ -1,5 +1,7 @@
 🔍 Linux Multi-Host Service Monitor (SSH + GUI)
+
 Bu Python tabanlı uygulama, birden fazla Linux makineye SSH ile bağlanarak her bir cihazın çalışan servis bilgilerini alır, GUI (Tkinter) arayüzü ile görüntüler ve tüm sonuçları düzenli bir şekilde tek bir rapor dosyasına aktarır.
+
 🚀 Özellikler
 •	🌐 SSH üzerinden bağlantı ile uzaktaki Linux makinelerde servis bilgisi toplama
 •	👥 Çoklu IP desteği:
