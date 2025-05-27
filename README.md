@@ -48,19 +48,9 @@ pip install paramiko
 
    
 📁 Rapor Yapısı
---------------------------------------------------
-IP: 10.10.10.10
-Hostname: ubuntu-server-1
-Tarih: 2025-05-22 15:00:12
---------------------------------------------------
-Servis Adı                                             - Gün
---------------------------------------------------
-cron.service                                          - 12
-ssh.service                                           - 45
-...
---------------------------------------------------
-📌 Katkıda Bulunmak
-Katkı sağlamak isterseniz Pull Request gönderebilir veya Issues kısmına geri bildirim bırakabilirsiniz.
-________________________________________
-📫 İletişim: https://github.com/ramazan-turkmen
+IP: 10.10.10.10 Hostname: ubuntu-server-1 Tarih: 2025-05-22 15:00:12
+Servis Adı - Gün
+cron.service - 12 ssh.service - 45 ...
+📌 Katkıda Bulunmak Katkı sağlamak isterseniz Pull Request gönderebilir veya Issues kısmına geri bildirim bırakabilirsiniz.
 
+📫 İletişim: https://github.com/ramazan-turkmen
