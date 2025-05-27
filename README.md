@@ -42,13 +42,9 @@ pip install paramiko
 ⚙️ Kullanım
 
 1.	Uygulamayı başlatın.
-2.	
 3.	IP, kullanıcı adı ve şifreyi GUI'den girin veya ip_list.txt dosyasından toplu IP alın.
-4.	
-5.	“Sorgula” butonuna basın, sonuçlar ekranda görüntülenecek.
-6.	
-7.	“Kaydet” butonu ile tüm sonuçları bir .txt dosyasına aktarabilirsiniz.
-8.	
+4.	“Sorgula” butonuna basın, sonuçlar ekranda görüntülenecek.
+5.	“Kaydet” butonu ile tüm sonuçları bir .txt dosyasına aktarabilirsiniz.	
 📁 Rapor Yapısı
 --------------------------------------------------
 IP: 10.10.10.10
