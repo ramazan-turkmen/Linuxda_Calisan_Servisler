@@ -3,10 +3,15 @@
 Bu Python tabanlı uygulama, birden fazla Linux makineye SSH ile bağlanarak her bir cihazın çalışan servis bilgilerini alır, GUI (Tkinter) arayüzü ile görüntüler ve tüm sonuçları düzenli bir şekilde tek bir rapor dosyasına aktarır.
 
 🚀 Özellikler
+
 •	🌐 SSH üzerinden bağlantı ile uzaktaki Linux makinelerde servis bilgisi toplama
+
 •	👥 Çoklu IP desteği:
+
 o	GUI ekranından elle IP girişi
+
 o	.txt dosyasından toplu IP yükleme
+
 •	📊 Servis listesi, hostname ve uptime (gün cinsinden) bilgilerini toplar
 •	💾 Tüm sonuçları tek bir not defteri (TXT) dosyasına sıralı şekilde kaydeder
 •	🧩 Her IP için çıktı ayrı bloklarda tutulur (IP ve hostname başlıklarıyla)
