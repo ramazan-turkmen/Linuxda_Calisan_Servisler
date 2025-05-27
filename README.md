@@ -13,6 +13,7 @@ o	.txt dosyasından toplu IP yükleme
 •	🖥️ Basit ve kullanıcı dostu Tkinter arayüzü
 •	🔐 Kullanıcı adı ve şifre ile bağlantı kontrolü
 🖼️ Ekran Görüntüsü
+
  ![image](https://github.com/user-attachments/assets/40690d63-78a2-49b5-a7a8-a674f36a81b8)
 
 🛠️ Gereksinimler
