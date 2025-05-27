@@ -13,25 +13,42 @@ o	GUI ekranından elle IP girişi
 o	.txt dosyasından toplu IP yükleme
 
 •	📊 Servis listesi, hostname ve uptime (gün cinsinden) bilgilerini toplar
+
 •	💾 Tüm sonuçları tek bir not defteri (TXT) dosyasına sıralı şekilde kaydeder
+
 •	🧩 Her IP için çıktı ayrı bloklarda tutulur (IP ve hostname başlıklarıyla)
+
 •	🖥️ Basit ve kullanıcı dostu Tkinter arayüzü
+
 •	🔐 Kullanıcı adı ve şifre ile bağlantı kontrolü
+
 🖼️ Ekran Görüntüsü
+
 
  ![image](https://github.com/user-attachments/assets/40690d63-78a2-49b5-a7a8-a674f36a81b8)
 
 🛠️ Gereksinimler
+
 •	Python 3.6+
+
 •	paramiko (SSH bağlantısı için)
+
 •	Tkinter (standart olarak Python içinde gelir)
+
 Kurulum:
+
 pip install paramiko
+
 ⚙️ Kullanım
+
 1.	Uygulamayı başlatın.
-2.	IP, kullanıcı adı ve şifreyi GUI'den girin veya ip_list.txt dosyasından toplu IP alın.
-3.	“Sorgula” butonuna basın, sonuçlar ekranda görüntülenecek.
-4.	“Kaydet” butonu ile tüm sonuçları bir .txt dosyasına aktarabilirsiniz.
+2.	
+3.	IP, kullanıcı adı ve şifreyi GUI'den girin veya ip_list.txt dosyasından toplu IP alın.
+4.	
+5.	“Sorgula” butonuna basın, sonuçlar ekranda görüntülenecek.
+6.	
+7.	“Kaydet” butonu ile tüm sonuçları bir .txt dosyasına aktarabilirsiniz.
+8.	
 📁 Rapor Yapısı
 --------------------------------------------------
 IP: 10.10.10.10
